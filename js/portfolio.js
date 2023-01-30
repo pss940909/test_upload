@@ -5,7 +5,7 @@ const lightbox_el = document.getElementById("lightbox");
 const imgData = [
   {
     id: 1,
-    imgUrl: "../img/port1.jpg",
+    imgUrl: "img/port1.jpg",
     category: "meeting room",
     title: "Woh Medical - meeting room",
     area: "50P",
@@ -14,7 +14,7 @@ const imgData = [
   },
   {
     id: 2,
-    imgUrl: "../img/port2.jpg",
+    imgUrl: "img/port2.jpg",
     category: "meeting room",
     title: "Neo East - meeting room",
     area: "60P",
@@ -23,7 +23,7 @@ const imgData = [
   },
   {
     id: 3,
-    imgUrl: "../img/port3.jpg",
+    imgUrl: "img/port3.jpg",
     category: "meeting room",
     title: "LaRe Limited - meeting room",
     area: "100P",
@@ -32,7 +32,7 @@ const imgData = [
   },
   {
     id: 4,
-    imgUrl: "../img/port2_1.jpg",
+    imgUrl: "img/port2_1.jpg",
     category: "office",
     title: "Grip Limited 2006 - Head Office",
     area: "250P",
@@ -41,7 +41,7 @@ const imgData = [
   },
   {
     id: 5,
-    imgUrl: "../img/port2_2.jpg",
+    imgUrl: "img/port2_2.jpg",
     category: "office",
     title: "Mosaic Canada Headquarters",
     area: "500P",
@@ -50,7 +50,7 @@ const imgData = [
   },
   {
     id: 6,
-    imgUrl: "../img/port2_3.jpg",
+    imgUrl: "img/port2_3.jpg",
     category: "office",
     title: "SGSCO Head Office Expansion",
     area: "300P",
@@ -59,7 +59,7 @@ const imgData = [
   },
   {
     id: 7,
-    imgUrl: "../img/port3_1.jpg",
+    imgUrl: "img/port3_1.jpg",
     category: "staff lounge",
     title: "Grip Limited 2006 - staff lounge",
     area: "80P",
@@ -68,7 +68,7 @@ const imgData = [
   },
   {
     id: 8,
-    imgUrl: "../img/port3_2.jpg",
+    imgUrl: "img/port3_2.jpg",
     category: "staff lounge",
     title: "DEF Limited - staff lounge",
     area: "80P",
@@ -77,7 +77,7 @@ const imgData = [
   },
   {
     id: 9,
-    imgUrl: "../img/port3_3.jpg",
+    imgUrl: "img/port3_3.jpg",
     category: "staff lounge",
     title: "SGSCO - staff lounge",
     area: "80P",
